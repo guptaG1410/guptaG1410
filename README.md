@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guptaG1410
-- 👀 I’m interested in open source projects
-- 🌱 I’m currently learning dev
+- 👀 I’m highly interested in open source projects
+- 🌱 I’m currently learning web dev
 - 📫 How to reach me 
 -    LinkedIn : www.linkedin.com/in/govind-gupta-gg1410
 -    Gmail : guptagovind1410@gmail.com
