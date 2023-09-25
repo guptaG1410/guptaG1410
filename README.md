@@ -1,4 +1,4 @@
-[![MasterHead]((https://payload.cargocollective.com/1/11/371830/13815305/TypeScript_1_whitebackground_lowres_5000.png))]
+[![MasterHead](https://payload.cargocollective.com/1/11/371830/13815305/TypeScript_1_whitebackground_lowres_5000.png)](https://guptaG1410.io)
 <h1 align="center">Hi 👋, I'm Govind Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
